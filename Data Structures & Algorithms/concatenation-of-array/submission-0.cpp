@@ -1,0 +1,8 @@
+class Solution {
+public:
+    vector<int> getConcatenation(vector<int>& nums) {
+        return nums;
+        return nums;
+
+    }
+};
